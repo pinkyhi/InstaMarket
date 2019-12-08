@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaMarket", "InstaMarket\InstaMarket.csproj", "{2316966B-B368-48AF-AC1B-870BC7346594}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sessions", "sessions", "{EACE889A-2759-4CBC-900C-6D7881FED127}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "schema", "schema", "{05569B52-4EA0-40B8-99BF-F2A90F8C9D44}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Новая папка\chat.png = ..\..\..\Desktop\Новая папка\chat.png
+		..\..\..\Desktop\Новая папка\chat_status.png = ..\..\..\Desktop\Новая папка\chat_status.png
+		..\..\..\Desktop\Новая папка\comment.png = ..\..\..\Desktop\Новая папка\comment.png
+		..\..\..\Desktop\Новая папка\delivery.png = ..\..\..\Desktop\Новая папка\delivery.png
+		..\..\..\Desktop\Новая папка\dimension.png = ..\..\..\Desktop\Новая папка\dimension.png
+		..\..\..\Desktop\Новая папка\good.png = ..\..\..\Desktop\Новая папка\good.png
+		..\..\..\Desktop\Новая папка\good_dimension.png = ..\..\..\Desktop\Новая папка\good_dimension.png
+		..\..\..\Desktop\Новая папка\good_dimension_publication.png = ..\..\..\Desktop\Новая папка\good_dimension_publication.png
+		..\..\..\Desktop\Новая папка\order.png = ..\..\..\Desktop\Новая папка\order.png
+		..\..\..\Desktop\Новая папка\order_status.png = ..\..\..\Desktop\Новая папка\order_status.png
+		..\..\..\Desktop\Новая папка\publication.png = ..\..\..\Desktop\Новая папка\publication.png
+		..\..\..\Desktop\Новая папка\publication_image.png = ..\..\..\Desktop\Новая папка\publication_image.png
+		..\..\..\Desktop\Новая папка\publication_video.png = ..\..\..\Desktop\Новая папка\publication_video.png
+		..\..\..\Desktop\Новая папка\receipt.png = ..\..\..\Desktop\Новая папка\receipt.png
+		..\..\..\Desktop\Новая папка\shop.png = ..\..\..\Desktop\Новая папка\shop.png
+		..\..\..\Desktop\Новая папка\user.png = ..\..\..\Desktop\Новая папка\user.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2316966B-B368-48AF-AC1B-870BC7346594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2316966B-B368-48AF-AC1B-870BC7346594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2316966B-B368-48AF-AC1B-870BC7346594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2316966B-B368-48AF-AC1B-870BC7346594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44762489-A317-4434-88D6-9F3D8392BCC6}
+	EndGlobalSection
+EndGlobal
