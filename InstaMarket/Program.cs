@@ -19,10 +19,16 @@ namespace InstaMarket
         static void Main()
         {
             Directory.CreateDirectory(Environment.CurrentDirectory+"\\sessions");   // Directory to save sessions
-
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginForm());
+            try
+            {
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
+                Application.Run(new LoginForm());
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show("High exception:\n" + ex.Message);
+            }
         }
     }
 }
